@@ -23,5 +23,5 @@ bundles/
 vendor/pkg/
 pyenv
 Vagrantfile
-
+docker/game_data
 valley_saves
